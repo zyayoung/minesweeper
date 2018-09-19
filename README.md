@@ -1,0 +1,2 @@
+# minesweeper
+auto minesweep
